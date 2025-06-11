@@ -1,0 +1,34 @@
+# Ignore outputs and backups
+outputs/
+backup_imx6ul_sd_card/
+*.img
+*.tar.gz
+*.xz
+
+# Ignore kernel and u-boot build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+
+# Misc
+*.log
+*.swp
+
+# Ignore full rootfs content
+rootfs/rootfs/
+
+# Ignore all backup images
+backup_imx6ul_sd_card/
+
+# Ignore outputs if needed (optional)
+outputs/*.img
+outputs/*.dtb
+outputs/uImage
+outputs/u-boot-with-spl.imx
+
+# Other ignores
+*.tar.gz
+*.xz
