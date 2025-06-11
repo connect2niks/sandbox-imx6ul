@@ -1,6 +1,0 @@
-[submodule "kernel/linux-imx"]
-	path = kernel/linux-imx
-	url = https://github.com/nxp-imx/linux-imx
-[submodule "bootloader/u-boot"]
-	path = bootloader/u-boot
-	url = https://github.com/nxp-imx/uboot-imx
