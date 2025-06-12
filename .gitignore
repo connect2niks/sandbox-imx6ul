@@ -2,8 +2,6 @@
 outputs/
 backup_imx6ul_sd_card/
 *.img
-*.tar.gz
-*.xz
 
 # Ignore kernel and u-boot build artifacts
 *.o
@@ -20,6 +18,10 @@ backup_imx6ul_sd_card/
 # Ignore full rootfs content
 rootfs/rootfs/
 
+# But keep everything under etc/
+!rootfs/rootfs/etc/
+!rootfs/rootfs/etc/**
+
 # Ignore all backup images
 backup_imx6ul_sd_card/
 
@@ -29,6 +31,3 @@ outputs/*.dtb
 outputs/uImage
 outputs/u-boot-with-spl.imx
 
-# Other ignores
-*.tar.gz
-*.xz
