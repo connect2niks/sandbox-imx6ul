@@ -2,6 +2,7 @@
 outputs/
 backup_imx6ul_sd_card/
 *.img
+*.xz
 
 # Ignore kernel and u-boot build artifacts
 *.o
