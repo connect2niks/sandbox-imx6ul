@@ -3,6 +3,7 @@ outputs/
 backup_imx6ul_sd_card/
 *.img
 *.xz
+*.tar.gz
 
 # Ignore kernel and u-boot build artifacts
 *.o
@@ -31,7 +32,3 @@ outputs/*.img
 outputs/*.dtb
 outputs/uImage
 outputs/u-boot-with-spl.imx
-
-*.img
-*.tar.gz
-*.xz
