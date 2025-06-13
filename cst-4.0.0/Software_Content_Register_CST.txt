@@ -1,0 +1,25 @@
+--------------------------------------------
+NXP Software Content Register
+
+Package:                   cst-4.0.0.tgz
+Outgoing License:          BSD-3-Clause
+License Files:             ./licenses/LICENSE.bsd3
+                           ./licenses/LICENSE.openssl (OpenSSL License, SSLeay License and Apache License 2.0)
+                           ./licenses/LICENSE.oqsprovider
+                           ./licenses/LICENSE.liboqs
+                           ./licenses/LICENSE.libp11
+                           ./licenses/LICENSE.json-c
+                           ./licenses/LICENSE.libusb
+                           ./licenses/LICENSE.hidapi
+Type of content:           Source code and binaries
+Description and comments:  Code Signing Tool - used for signing images for IMX platforms
+Release Location:          https://www.nxp.com/webapp/sps/download/license.jsp?colCode=IMX_CST_TOOL_NEW
+Origin:                    NXP (BSD-3-Clause)
+                           OpenSSL - https://github.com/openssl
+                           oqsprovider - https://github.com/open-quantum-safe/oqs-provider
+                           liboqs - https://github.com/open-quantum-safe/liboqs
+                           libp11 - https://github.com/OpenSC/libp11
+                           json-c - https://github.com/json-c/json-c
+                           libusb - https://github.com/libusb/libusb
+                           hidapi - https://github.com/libusb/hidapi
+--------------------------------------------
