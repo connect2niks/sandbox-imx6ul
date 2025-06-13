@@ -32,3 +32,6 @@ outputs/*.dtb
 outputs/uImage
 outputs/u-boot-with-spl.imx
 
+*.img
+*.tar.gz
+*.xz
