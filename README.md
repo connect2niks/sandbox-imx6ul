@@ -70,8 +70,10 @@ Copied to bootloader/u-boot/configs/mx6ul_14x14_evk_defconfig
  build.sh – Automate image generation and boot setup
 
 ## Maintainers
- Nikhil Yadav
- Embedded Software Engineer – CDAC
+ Nikhil Yadav - Project Engineer – CDAC
+ Maroti Shinde  - Project Engineer - CDAC
+ Ajay Bajpai - Project Associate - CDAC
+ T V Madhavan - Project Associate - CDAC
 
 ## License
  This project is released under the MIT License.
