@@ -5,15 +5,15 @@ This project contains the source, build scripts, and configurations for a lightw
 
 ##  Directory Structure
 
-.
-├── bootloader/ # U-Boot source and prebuilt binaries
-├── kernel/ # Linux kernel source and kernel defconfig
-├── rootfs/ # Root filesystem (extracted and compressed)
-├── outputs/ # Final boot files (uImage, dtb, boot.scr, etc.)
-├── configs/ # Kernel and U-Boot defconfig files
-├── scripts/ # Helper scripts (e.g., backup.sh)
-├── build.sh # Main build script
-├── README.md # This file
+ - .
+ - ├── bootloader/ # U-Boot source and prebuilt binaries
+ - ├── kernel/ # Linux kernel source and kernel defconfig
+ - ├── rootfs/ # Root filesystem (extracted and compressed)
+ - ├── outputs/ # Final boot files (uImage, dtb, boot.scr, etc.)
+ - ├── configs/ # Kernel and U-Boot defconfig files
+ - ├── scripts/ # Helper scripts (e.g., backup.sh)
+ - ├── build.sh # Main build script
+ - ├── README.md # This file
 
 
 ##  Build Instructions
